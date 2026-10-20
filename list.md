@@ -136,3 +136,4 @@
 - [日志结构化 json 输出源码 完整日志 json 格式化输出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e2169509e68cda3d8a5f228bf2fc907ec8219ba8)
 - [旅游消费回暖，中小旅行社生存环境依旧十分艰难](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5462e46105d088ae87521dfb4617b8dfaf7f7634)
 - [弹性休假多元试点，调休制度改革社会讨论](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9e2f647f47f561f45877dc826c7e5ca963909040)
+- [静态站点合理管控爬虫抓取请求压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2d6cbc3ec13323d437d99353e7e7d72bf6266135)
