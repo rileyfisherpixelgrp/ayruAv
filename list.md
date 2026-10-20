@@ -162,3 +162,4 @@
 - [另类资产受到追捧艺术品成为高净值家庭配置选择](https://github.com/rileyfisherpixelgrp/ayruAv/commit/285d0290fa332fb63ac5b3ddae881cb310e0a7e5)
 - [汽车维保行业小病大修整治进展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0c68e59edad14d91c1edb77d41322dc6228d9828)
 - [AI辅助放疗诊断，基层医疗机构落地现实阻碍](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c20b7596c1642721905809cfc8f9d24a76f6b94f)
+- [果园采摘预约系统，签到订单场次预约统计报表](https://github.com/rileyfisherpixelgrp/ayruAv/commit/05f93763c93d3397e64bbbcf2c2b67fd8e1875ca)
