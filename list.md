@@ -79,3 +79,4 @@
 - [模块化组件开源实战合集 全套源码附带异常排查实操](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a1b0cff3e72f88a376263e0157852bea83b02e12)
 - [文本敏感词批量替换工具，批量替换文本命中敏感词汇](https://github.com/rileyfisherpixelgrp/ayruAv/commit/22fe60362bc7c696e2a3fe87a632b5fdc1130548)
 - [绿色智算中心PUE优化，算力能耗平衡实践](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0764b8469839610d0c53e8c8edd81c229b226644)
+- [PDF页面批量裁剪脚本，调整页面尺寸边距](https://github.com/rileyfisherpixelgrp/ayruAv/commit/835da66f77ee999e7231369e43eb1814968d596e)
