@@ -143,3 +143,4 @@
 - [开源项目文档 title 标签设置百度搜索优化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/31a4a9c087bab26acfb3084f50b820793a7c4b32)
 - [GitHub仓库提交记录热力原始数据导出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8ad696308c01adee916c60499f661f03c8688005)
 - [云成本优化FinOps，云上资源浪费治理手段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8a282ae946de74c6b53513ef7329444e5cbe1ec3)
+- [开源轻量工具项目分享 源码开放包含多场景适配示例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/91dc843ce1778f0f05181c35165c460eaf095d80)
