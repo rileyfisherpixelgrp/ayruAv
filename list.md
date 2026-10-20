@@ -27,3 +27,4 @@
 - [递归遍历多级目录源码 完整源码遍历深度嵌套文件夹](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4b302725f4271c7496e9dde8706ca1f05e5710ad)
 - [静态站点sitemap生成工具，扫描站点生成sitemap xml](https://github.com/rileyfisherpixelgrp/ayruAv/commit/48cc29f5113a83507aff25642c2b9832f6f73483)
 - [消息队列自动化脚本开源仓库 源码开放支持自定义逻辑扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6a5c78573a747d79a5023f622f0b61fd525bfac1)
+- [词元资源配额管控，多业务AI消费限流治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/af1a94bbed829706718b1cb2a915119e8927db3c)
