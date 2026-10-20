@@ -185,3 +185,4 @@
 - [模块化业务开源示例项目 快速配置上手与模拟测试样例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1a8a87542ebdf96b26515f99c1a98078897be630)
 - [商业健康保险创新，普惠型保险产品迭代](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2ae0e51ef921a4d62590246ac12f9380eb3fcaf2)
 - [高效业务实战开源源码合集 完整工程附带业务二次开发样例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/cbdd5d6e6ffba5ef60ecf3123d33d925c958f1c3)
+- [mysql慢查询日志解析工具，解析慢日志统计top慢sql](https://github.com/rileyfisherpixelgrp/ayruAv/commit/611ca251c116d180f3773ebee2e61f1f48dd9115)
