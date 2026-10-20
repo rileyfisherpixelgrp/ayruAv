@@ -75,3 +75,4 @@
 - [密码加盐哈希加密源码 完整源码安全存储用户密码](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7d2510996bd4fb2b7c9d47d9db2c04586aeb1211)
 - [人民币汇率来回波动，不必过度放大影响](https://github.com/rileyfisherpixelgrp/ayruAv/commit/42f010df9b241eabf65054549226e17855851da1)
 - [跨实例数据迁移脚本工程 完整源码完成库之间数据同步](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1b1c400de28f3f2006078aad1b5758942ee6319c)
+- [美债消息反复刷屏，别被短期消息打乱节奏](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7a69fbe1492587bb3403d83ca7103e2a2f593444)
