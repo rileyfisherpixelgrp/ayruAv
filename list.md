@@ -151,3 +151,4 @@
 - [多端适配开源小工具 完整源码兼容 Windows Linux macOS](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0bc9e7e73d5567ace5c596feb286053ebc669fdf)
 - [工业金属旺季需求验证铜铝铅锌四季度需求表现如何](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6d049c584fc94b6ba472e2241249ff33298873dd)
 - [财富管理行业转型券商银行转向综合资产服务](https://github.com/rileyfisherpixelgrp/ayruAv/commit/11a129e5cff88d084b42a41aa507b958ce6f7aca)
+- [农村宴席记账登记系统，宾客随礼打印统计报表](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0ba23aed30b0e8ad24c292695971c639f2613929)
