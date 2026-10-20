@@ -22,3 +22,4 @@
 - [机密虚拟机CVM推理业务，加密计算性能损耗](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f4db41fa5dd0db44b2d97128a55241592f9fedbd)
 - [开发者实战开源方案合集 完整工程包含故障排查指南](https://github.com/rileyfisherpixelgrp/ayruAv/commit/12f1f61fe00878c84c0e97da145a1cc533488246)
 - [文件批量设置suid sgid特殊权限位，批量修改文件特殊权限标记](https://github.com/rileyfisherpixelgrp/ayruAv/commit/09c3bdc59871c550ecb18769e7e3c8b1f38ee658)
+- [进城务工人员社保转移异地打工社保衔接怎么办理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d4264603f1f66a624b28e9bd7801e6eb2ab1926b)
