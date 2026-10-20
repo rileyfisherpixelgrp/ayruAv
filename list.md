@@ -42,3 +42,4 @@
 - [powershell配置文件管理工具，分段管理powershell配置](https://github.com/rileyfisherpixelgrp/ayruAv/commit/41083ea845b7b5b44a2a4ae68913d7bae80ea24d)
 - [粮价表面风平浪静，潜藏的连锁风险不可忽视](https://github.com/rileyfisherpixelgrp/ayruAv/commit/3b6b1da1f937789676b8a231651c8bf208f6150b)
 - [农业保险扩面提质，极端天气农户损失兜底](https://github.com/rileyfisherpixelgrp/ayruAv/commit/479777182ed4effbde0e42a776c6714f6dff7143)
+- [github组织内部仓库访问矩阵导出，用户-仓库权限完整矩阵输出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a4f75eb48e993d63b14ee87439f234d3e3334917)
