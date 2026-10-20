@@ -166,3 +166,4 @@
 - [券商研报监管趋严行业研报质量与客观性迎来全面规范](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8a58601c8179b1dcef5741aabd3bfc7b4855a5ff)
 - [GitHub仓库Project自定义字段导出脚本](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7c89401bfc4c9c2ed12dac7a9f23b87fe2b948d3)
 - [静态二进制分发，AGPL GPL协议分发义务](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4a20fd9fb7def94fc04ca793e49774c46f9d1d65)
+- [锂电铜箔铝箔产能过剩锂电辅材行业盈利承压现状](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8952da02cf8597b6a7f7233875da281510c2432c)
