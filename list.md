@@ -48,3 +48,4 @@
 - [医疗器械集采扩围，家用医疗设备降价趋势](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6c7882fe918e7ae525d017467d74e59733a6c2d5)
 - [中证A500指数基金密集发行宽基指数产品赛道迎来激烈竞争](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6ea2c87176f5b9ea14a9b567b2749ca3d4eb3212)
 - [基建类REITs持续上新盘活存量基建资产撬动新增投资](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2eb3eabc241f4c6508067d25c70dc29d0a779f50)
+- [时序指标异常检测工具，服务器监控数据自动识别突增突降](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0c2b5a44f4bbdc92679889f18c8d8e37c7328bf8)
