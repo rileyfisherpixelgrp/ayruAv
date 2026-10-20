@@ -134,3 +134,4 @@
 - [内网文档权限共享平台，预览防复制禁止下载分级权限管控](https://github.com/rileyfisherpixelgrp/ayruAv/commit/abfc43c6e357a3d1035023392b5b08139c48ebd5)
 - [github markdown任务复选框统计，统计issue任务完成未完成数量](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b9130917e6037b1bec3fcba1c10b119ae452dcc4)
 - [日志结构化 json 输出源码 完整日志 json 格式化输出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e2169509e68cda3d8a5f228bf2fc907ec8219ba8)
+- [旅游消费回暖，中小旅行社生存环境依旧十分艰难](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5462e46105d088ae87521dfb4617b8dfaf7f7634)
