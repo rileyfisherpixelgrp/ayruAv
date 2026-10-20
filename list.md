@@ -9,3 +9,4 @@
 - [视频音频轨道信息导出，批量导出视频音轨编码语言信息](https://github.com/rileyfisherpixelgrp/ayruAv/commit/86854a94cdfc82e22bb01eebc90d3d316ada21f1)
 - [数据处理开源案例仓库 可复用源码与数据功能集成接入文档](https://github.com/rileyfisherpixelgrp/ayruAv/commit/da7100e1ceb5c2c36f74de16036df910cb270558)
 - [AI业务故障定级，模型异常线上应急响应](https://github.com/rileyfisherpixelgrp/ayruAv/commit/ee3bcb315f289897c4dcc3ad0436330560ccfbc9)
+- [技术进步提高生产效率，同时带来结构性就业变化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5241b5b03c5853e9a97d4827433874b4cdf0e850)
