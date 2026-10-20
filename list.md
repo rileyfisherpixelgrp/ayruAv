@@ -182,3 +182,4 @@
 - [powershell批量文件哈希计算，批量计算文件md5 sha256输出csv](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f5d0f55fd4b8546635e68991a11655e52d018cc4)
 - [接口响应统一封装工程 完整源码标准化返回码与消息](https://github.com/rileyfisherpixelgrp/ayruAv/commit/32f661bb815d0be543e6ab5b409cc4888a46bb82)
 - [家庭负债过高信号出现哪些情况就要控制开销](https://github.com/rileyfisherpixelgrp/ayruAv/commit/81fbbba6d25291af763f9612a1a12989bca364fd)
+- [模块化业务开源示例项目 快速配置上手与模拟测试样例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1a8a87542ebdf96b26515f99c1a98078897be630)
