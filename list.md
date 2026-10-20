@@ -138,3 +138,4 @@
 - [弹性休假多元试点，调休制度改革社会讨论](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9e2f647f47f561f45877dc826c7e5ca963909040)
 - [静态站点合理管控爬虫抓取请求压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2d6cbc3ec13323d437d99353e7e7d72bf6266135)
 - [新能源车保值率逐步提升新能源二手车流通体系走向成熟](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2c1b8c86267faba16693ff1c542824049932d697)
+- [量化监管收紧，散户赚钱难度并未降低](https://github.com/rileyfisherpixelgrp/ayruAv/commit/20858e3013c95d19391d43cb05a3c0ed7e9ddbac)
