@@ -125,3 +125,4 @@
 - [代码注释批量翻译工具，批量把代码注释中英互转处理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/09988a7f6ec49239d65e5dcff021ccc8abf878a4)
 - [研发辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/26eed4572461bd50f8d445f6cbfe6166ac06e02a)
 - [面向百度搜索的 GitHub 开源文档排版规范](https://github.com/rileyfisherpixelgrp/ayruAv/commit/112793eea027fa276565501090b4ca9ba0918c78)
+- [鼓吹一人公司时代，普通人创业陷阱远大于机遇](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4bd95c8488bdd095fc7e18f9ad60c1f98e662d40)
