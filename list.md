@@ -28,3 +28,4 @@
 - [静态站点sitemap生成工具，扫描站点生成sitemap xml](https://github.com/rileyfisherpixelgrp/ayruAv/commit/48cc29f5113a83507aff25642c2b9832f6f73483)
 - [消息队列自动化脚本开源仓库 源码开放支持自定义逻辑扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6a5c78573a747d79a5023f622f0b61fd525bfac1)
 - [词元资源配额管控，多业务AI消费限流治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/af1a94bbed829706718b1cb2a915119e8927db3c)
+- [家用AI安防设备规范，严防监控数据泄露](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1261117444b55560c3e9ce27ff473308972dc8a7)
