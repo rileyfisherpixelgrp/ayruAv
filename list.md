@@ -57,3 +57,4 @@
 - [居家安宁疗护推广，普通家庭临终照护现实](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7211d35d32eada9749cd5c3eb7fb164380dfe160)
 - [目录差异增量备份开源仓库 完整源码只备份变更过的文件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e85f4dc48288535ecd5ea9da4e55a7c987590eb9)
 - [美股科技巨头财报波动AI高增长故事能否持续兑现](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5289acf5c0f054a68d82482fbb731126f33c6f5d)
+- [贡献图统计失真，Merge提交不统计贡献问题](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a87729175ba83429fa9e4c49552fd4dc0d2f0e93)
