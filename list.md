@@ -35,3 +35,4 @@
 - [高质量开源工程合集 落地部署流程与常见问题汇总](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0b372a607a9ba651d5345c16c35188de918c614a)
 - [图片隐写水印工具，文字图片信息隐藏嵌入提取本地实现](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d9563b109d7b89b9b0c495405c884fef2b880dde)
 - [城市收缩背景下，公共资源减量配置模式](https://github.com/rileyfisherpixelgrp/ayruAv/commit/74e68e784e1da484012e78ab4e0f0520d0c00b01)
+- [mRNA个性化肿瘤疫苗，AI辅助靶点设计现实挑战](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1e2547d706c897bf28e41d120af9901e01caa281)
