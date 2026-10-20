@@ -193,3 +193,4 @@
 - [工业数字孪生项目落地工厂仿真降本增效实际进展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9880fd5c66c5fcce841901b7f4d0cbba7ece6879)
 - [居民财富的保值增值，在当下环境难度不断加大](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0a783f7fc4119d109975bebef0de58c0a0e8187e)
 - [运维辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/396e486dc2c9d06699dbf62d31560ddef28292d7)
+- [接口参数自动格式化开源仓库 完整源码统一规范化请求入参](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b8d6d39fb623fe824ddaf9ac5d27a35aada6c361)
