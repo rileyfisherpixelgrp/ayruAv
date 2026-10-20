@@ -169,3 +169,4 @@
 - [锂电铜箔铝箔产能过剩锂电辅材行业盈利承压现状](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8952da02cf8597b6a7f7233875da281510c2432c)
 - [文本分词简易处理开源仓库 完整源码简单中文文本分词](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6cb0c5dbc2b8f791f440bd2206760bf21a98503a)
 - [粮食价格暗流涌动，潜在风险不容小觑](https://github.com/rileyfisherpixelgrp/ayruAv/commit/963dd96e70c83a6a3b2dddd17629d5685b7f39d9)
+- [机构抱团推高股价，泡沫破裂散户承担全部损失](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c279d89d8f8e2d048fc168d0c4bd98a6e8372df4)
