@@ -163,3 +163,4 @@
 - [汽车维保行业小病大修整治进展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0c68e59edad14d91c1edb77d41322dc6228d9828)
 - [AI辅助放疗诊断，基层医疗机构落地现实阻碍](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c20b7596c1642721905809cfc8f9d24a76f6b94f)
 - [果园采摘预约系统，签到订单场次预约统计报表](https://github.com/rileyfisherpixelgrp/ayruAv/commit/05f93763c93d3397e64bbbcf2c2b67fd8e1875ca)
+- [券商研报监管趋严行业研报质量与客观性迎来全面规范](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8a58601c8179b1dcef5741aabd3bfc7b4855a5ff)
