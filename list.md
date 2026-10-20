@@ -139,3 +139,4 @@
 - [静态站点合理管控爬虫抓取请求压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2d6cbc3ec13323d437d99353e7e7d72bf6266135)
 - [新能源车保值率逐步提升新能源二手车流通体系走向成熟](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2c1b8c86267faba16693ff1c542824049932d697)
 - [量化监管收紧，散户赚钱难度并未降低](https://github.com/rileyfisherpixelgrp/ayruAv/commit/20858e3013c95d19391d43cb05a3c0ed7e9ddbac)
+- [明知依赖停止维护，项目依旧继续强依赖](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fadbbaa46bc42127cb0f6ea9d0a20c0551e9d47c)
