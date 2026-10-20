@@ -123,3 +123,4 @@
 - [静态开源项目页面标题 meta 描述设置教程](https://github.com/rileyfisherpixelgrp/ayruAv/commit/bd8ab417c63970c5ba3fcfd3ef3f357aea664ba3)
 - [Dependabot更新锁文件，产生巨量无法合并冲突](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d24033d17ff5aa4bc9413b8f3644208202866dbc)
 - [代码注释批量翻译工具，批量把代码注释中英互转处理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/09988a7f6ec49239d65e5dcff021ccc8abf878a4)
+- [研发辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/26eed4572461bd50f8d445f6cbfe6166ac06e02a)
