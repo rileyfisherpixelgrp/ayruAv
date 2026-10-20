@@ -6,3 +6,4 @@
 - [A股风格轮动加速价值与成长板块谁更具备配置优势](https://github.com/rileyfisherpixelgrp/ayruAv/commit/61852a3051d0f07005a65398a966d1c99c2c42e6)
 - [个人破产制度落地，负债人群债务解脱边界](https://github.com/rileyfisherpixelgrp/ayruAv/commit/75a847d849ec0d76d9dacd8bc51b070f0c115626)
 - [目录文件镜像删除冗余，源目录同步时删除目标多余文件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/49887573c1ff03227d2e8e7a31a980b15e0f9791)
+- [视频音频轨道信息导出，批量导出视频音轨编码语言信息](https://github.com/rileyfisherpixelgrp/ayruAv/commit/86854a94cdfc82e22bb01eebc90d3d316ada21f1)
