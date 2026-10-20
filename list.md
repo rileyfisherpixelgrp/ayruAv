@@ -31,3 +31,4 @@
 - [家用AI安防设备规范，严防监控数据泄露](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1261117444b55560c3e9ce27ff473308972dc8a7)
 - [自动化工具实战源码集 完整实现代码与运行报错排查方案](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2d6ae9c38556d425fb5061e5e1e65ef310bb796d)
 - [粮价看似波澜不惊，背后暗藏连锁传导风险](https://github.com/rileyfisherpixelgrp/ayruAv/commit/33d3cb511b75a2d803680bc11bbe1ba49fee6eb6)
+- [redis key过期时间批量设置，批量给匹配key设置ttl过期时间](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b3170829b61d0247c42afe1b5feef5d58ef1f7d2)
