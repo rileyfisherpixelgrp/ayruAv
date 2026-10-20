@@ -122,3 +122,4 @@
 - [新时代文明实践站提质乡村精神文化供给](https://github.com/rileyfisherpixelgrp/ayruAv/commit/94e337e837fb8169ed2c4e7b1f2f57422b16f433)
 - [静态开源项目页面标题 meta 描述设置教程](https://github.com/rileyfisherpixelgrp/ayruAv/commit/bd8ab417c63970c5ba3fcfd3ef3f357aea664ba3)
 - [Dependabot更新锁文件，产生巨量无法合并冲突](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d24033d17ff5aa4bc9413b8f3644208202866dbc)
+- [代码注释批量翻译工具，批量把代码注释中英互转处理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/09988a7f6ec49239d65e5dcff021ccc8abf878a4)
