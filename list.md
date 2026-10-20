@@ -83,3 +83,4 @@
 - [开源软件售卖服务，能不能收费售卖开源软件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d9915e376768eb6fd2f3da40e07456960d008ebb)
 - [家庭财产公证线上化，财富传承流程简化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2cd21f075d24c27350c90a6c0e1fc5805c02f6dc)
 - [生态保护和农户增收平衡路径](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e087a05994ed9975f274c3bcf46cfc1dbb0f4e40)
+- [气候韧性农业应对极端天气](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8084df67fcc7261bde2a61dd84d04f1a2a496053)
