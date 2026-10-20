@@ -168,3 +168,4 @@
 - [静态二进制分发，AGPL GPL协议分发义务](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4a20fd9fb7def94fc04ca793e49774c46f9d1d65)
 - [锂电铜箔铝箔产能过剩锂电辅材行业盈利承压现状](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8952da02cf8597b6a7f7233875da281510c2432c)
 - [文本分词简易处理开源仓库 完整源码简单中文文本分词](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6cb0c5dbc2b8f791f440bd2206760bf21a98503a)
+- [粮食价格暗流涌动，潜在风险不容小觑](https://github.com/rileyfisherpixelgrp/ayruAv/commit/963dd96e70c83a6a3b2dddd17629d5685b7f39d9)
