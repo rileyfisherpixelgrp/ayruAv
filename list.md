@@ -130,3 +130,4 @@
 - [多线程任务异常捕获开源仓库 完整源码处理线程异常崩溃](https://github.com/rileyfisherpixelgrp/ayruAv/commit/43f9137aa502b914073efbf148fa2ea2abc5d1bf)
 - [mysql建表语句转markdown，建表sql直接生成表结构文档](https://github.com/rileyfisherpixelgrp/ayruAv/commit/01f865556e821bae57bd16bce7f1652edbc8a5a8)
 - [多模态PDF解析，扫描件表格图表抽取缺陷](https://github.com/rileyfisherpixelgrp/ayruAv/commit/646b35c0fb546cf3bfac4b6e734d83415a71b0ef)
+- [动力电池梯次利用，储能产业规模化发展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/88fe5bf6101d9b1bb88c296334f56d4af12705e1)
