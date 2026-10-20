@@ -97,3 +97,4 @@
 - [二手市场异常火爆，既是机遇也是无奈妥协](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5cc777050cb7ccba48079daf20135ae56ddaea2d)
 - [混沌工程AI化，AI自动生成故障注入场景](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4802a56008d2bb3e284da5d38295e6f1d205c54c)
 - [外贸高增长，也伴随着国际贸易摩擦的增多](https://github.com/rileyfisherpixelgrp/ayruAv/commit/ab4814966311a9c02a666638adcf3c5d4b7d7dd0)
+- [理财追求安稳，为什么亏的全是保守派](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7c6034ee4c995623bbadab65c5e847efe7b95729)
