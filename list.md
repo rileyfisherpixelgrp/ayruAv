@@ -195,3 +195,4 @@
 - [运维辅助工具开源分享 源码开放支持自定义功能扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/396e486dc2c9d06699dbf62d31560ddef28292d7)
 - [接口参数自动格式化开源仓库 完整源码统一规范化请求入参](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b8d6d39fb623fe824ddaf9ac5d27a35aada6c361)
 - [元宇宙相关应用落地，虚拟社交消费风险提示](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c3b450af638dd1ced5d86005a1a55ddcdf780712)
+- [长音频RAG降噪预处理，语音召回失真治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9197163c788ee56dc583f0f2ce5061868cf45c24)
