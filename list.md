@@ -132,3 +132,4 @@
 - [多模态PDF解析，扫描件表格图表抽取缺陷](https://github.com/rileyfisherpixelgrp/ayruAv/commit/646b35c0fb546cf3bfac4b6e734d83415a71b0ef)
 - [动力电池梯次利用，储能产业规模化发展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/88fe5bf6101d9b1bb88c296334f56d4af12705e1)
 - [内网文档权限共享平台，预览防复制禁止下载分级权限管控](https://github.com/rileyfisherpixelgrp/ayruAv/commit/abfc43c6e357a3d1035023392b5b08139c48ebd5)
+- [github markdown任务复选框统计，统计issue任务完成未完成数量](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b9130917e6037b1bec3fcba1c10b119ae452dcc4)
