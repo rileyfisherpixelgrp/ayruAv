@@ -180,3 +180,4 @@
 - [AI生成内容监管收紧，自媒体创作合规边界](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8307f20681dc5974ca65af286681654d3b65ad5c)
 - [缓存雪崩随机过期工程 完整源码打散过期时间规避雪崩](https://github.com/rileyfisherpixelgrp/ayruAv/commit/691650e192c594e033438ce4f89d7aa59f65486b)
 - [powershell批量文件哈希计算，批量计算文件md5 sha256输出csv](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f5d0f55fd4b8546635e68991a11655e52d018cc4)
+- [接口响应统一封装工程 完整源码标准化返回码与消息](https://github.com/rileyfisherpixelgrp/ayruAv/commit/32f661bb815d0be543e6ab5b409cc4888a46bb82)
