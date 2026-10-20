@@ -190,3 +190,4 @@
 - [消息重试死信处理开源仓库 完整源码处理消息失败重试](https://github.com/rileyfisherpixelgrp/ayruAv/commit/02544f5c1efdc8f105717f8fa638f0aecd64d505)
 - [大力拉动居民消费，老百姓储蓄意愿反而上涨](https://github.com/rileyfisherpixelgrp/ayruAv/commit/43e6c7f2e088e86287504faeaa39d9dd28ae19e0)
 - [降息一轮接着一轮，财富依旧很难实现增值](https://github.com/rileyfisherpixelgrp/ayruAv/commit/bfd60e25e4c194a23a4cf9df3c37b2aa37c6f2ea)
+- [工业数字孪生项目落地工厂仿真降本增效实际进展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9880fd5c66c5fcce841901b7f4d0cbba7ece6879)
