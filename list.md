@@ -156,3 +156,4 @@
 - [数字游民政策适配，跨城市社保医保打通](https://github.com/rileyfisherpixelgrp/ayruAv/commit/18404af97fec419349b7b195890acb79f81a51b8)
 - [GitHub仓库Release附件哈希校验完整性脚本](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a87d24e036d030f4e75e6e2e72e2091f28123f2f)
 - [AI自助BI异常根因分析，误判业务指标问题](https://github.com/rileyfisherpixelgrp/ayruAv/commit/afcc3520b465d8e9720b812975f5db8044780ec1)
+- [缓存预热多策略开源工程 完整源码多维度热点 key 预加载](https://github.com/rileyfisherpixelgrp/ayruAv/commit/89f9b1c103595a7e37ab9d9aecc6786fb84a7625)
