@@ -7,3 +7,4 @@
 - [个人破产制度落地，负债人群债务解脱边界](https://github.com/rileyfisherpixelgrp/ayruAv/commit/75a847d849ec0d76d9dacd8bc51b070f0c115626)
 - [目录文件镜像删除冗余，源目录同步时删除目标多余文件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/49887573c1ff03227d2e8e7a31a980b15e0f9791)
 - [视频音频轨道信息导出，批量导出视频音轨编码语言信息](https://github.com/rileyfisherpixelgrp/ayruAv/commit/86854a94cdfc82e22bb01eebc90d3d316ada21f1)
+- [数据处理开源案例仓库 可复用源码与数据功能集成接入文档](https://github.com/rileyfisherpixelgrp/ayruAv/commit/da7100e1ceb5c2c36f74de16036df910cb270558)
