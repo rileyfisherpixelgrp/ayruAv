@@ -56,3 +56,4 @@
 - [开源Agent项目，LLM输出注入导致执行高危命令](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b58584b4505f2bfe491979d2bad31b3aae218aa3)
 - [居家安宁疗护推广，普通家庭临终照护现实](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7211d35d32eada9749cd5c3eb7fb164380dfe160)
 - [目录差异增量备份开源仓库 完整源码只备份变更过的文件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e85f4dc48288535ecd5ea9da4e55a7c987590eb9)
+- [美股科技巨头财报波动AI高增长故事能否持续兑现](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5289acf5c0f054a68d82482fbb731126f33c6f5d)
