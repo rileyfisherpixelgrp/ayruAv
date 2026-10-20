@@ -197,3 +197,4 @@
 - [元宇宙相关应用落地，虚拟社交消费风险提示](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c3b450af638dd1ced5d86005a1a55ddcdf780712)
 - [长音频RAG降噪预处理，语音召回失真治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9197163c788ee56dc583f0f2ce5061868cf45c24)
 - [个人很难对抗宏观大周期，只能顺势做好自身规划](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e71c194f05b996deb18b02b1e3570b6d0eeaed71)
+- [智慧农业推广小农户数字化转型难点](https://github.com/rileyfisherpixelgrp/ayruAv/commit/33a4819b0e2758c571d1c7e2fc2f7bf2209a2cf4)
