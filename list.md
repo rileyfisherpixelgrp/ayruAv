@@ -105,3 +105,4 @@
 - [CodeQL自定义规则编写，普通维护者上手难](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5e1f367cb1f78fb2b9b53da60b8b6fa3757e8625)
 - [模块化实战开发开源源码库 完整工程搭配问题排查实操](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9c6783d125dfb637b21b355f47d627166adec01b)
 - [水务固废资产整合加速地方国资平台整合环保类资产](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e71ff4b3c7983ace016f598984700eb5221d7376)
+- [存量房时代房产中介行业转型方向](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fe49e625abbb0f278f62559d92f7e3fff1cc49d1)
