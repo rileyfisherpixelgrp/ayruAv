@@ -178,3 +178,4 @@
 - [分众并购新潮传媒最新进展，户外广告行业格局迎来重构](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0e52e1b726c17a141d8d2e5d77aa0272c702c825)
 - [普通个体很难预判宏观周期，优先做好自身风险对冲](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c40b2beb317cbe73a218cd0cc793e9b690dab999)
 - [AI生成内容监管收紧，自媒体创作合规边界](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8307f20681dc5974ca65af286681654d3b65ad5c)
+- [缓存雪崩随机过期工程 完整源码打散过期时间规避雪崩](https://github.com/rileyfisherpixelgrp/ayruAv/commit/691650e192c594e033438ce4f89d7aa59f65486b)
