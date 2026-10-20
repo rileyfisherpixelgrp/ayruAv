@@ -176,3 +176,4 @@
 - [开源实战参考工程源码分享 完整源码配套参数调优手册](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5f1fc273bbd0154b1669ea30d2e84b1534d68560)
 - [AI生成虚假依赖包，依赖混淆攻击供应链防护](https://github.com/rileyfisherpixelgrp/ayruAv/commit/79e054ec143d26572ed9d769cc9754af7774c62b)
 - [分众并购新潮传媒最新进展，户外广告行业格局迎来重构](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0e52e1b726c17a141d8d2e5d77aa0272c702c825)
+- [普通个体很难预判宏观周期，优先做好自身风险对冲](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c40b2beb317cbe73a218cd0cc793e9b690dab999)
