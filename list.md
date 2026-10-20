@@ -116,3 +116,4 @@
 - [github仓库label标签批量同步脚本，跨仓库同步整套标签配色描述](https://github.com/rileyfisherpixelgrp/ayruAv/commit/165bd1b4f80f8cbf36cb940a6d23c47e8f8b205a)
 - [JSON样本自动生成Schema校验规则脚本](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e84c8643901a2c50f317f50d6cbe4a5e053f03c6)
 - [简单 RSA 非对称加密开源仓库 完整源码公私钥加解密示例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/21971e192333db92f666358fe2614155b66efbeb)
+- [开源工具项目 FAQ 模块对百度索引的作用](https://github.com/rileyfisherpixelgrp/ayruAv/commit/094a1c1722baac62cbe62f1dccb868389f882494)
