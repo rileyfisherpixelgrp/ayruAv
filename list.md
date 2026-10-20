@@ -89,3 +89,4 @@
 - [数据库组件实战合集 完整实现附带部署性能调优教程](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a00edd879ac9fa091d0777f3921d59e4a30dcb55)
 - [udp 数据包转发开源仓库 完整源码 udp 流量中转处理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/55ed3809530cbe57c9ff4c035ce973d798a20c83)
 - [地方国有资本经营预算收入大增国企改革红利持续释放观察](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fa7361bd45cf545e325f2c48786a6f18c8f8a4ad)
+- [三十五岁职场危机如何化解](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0e89be1f52f46450c295a4811c248a81f4574f6b)
