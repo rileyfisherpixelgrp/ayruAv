@@ -69,3 +69,4 @@
 - [网购七天无理由退货，拆封之后还能不能退货](https://github.com/rileyfisherpixelgrp/ayruAv/commit/3ea776da03612cbdd4da13b8ae65e10bab8fa75c)
 - [维护者拒绝向后兼容，强迫用户大规模改代码](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a59fba20246e11fa22a0f49c3cbead0eb80e6e22)
 - [可观测指标爆炸，无效指标淹没真正故障信号](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fce3ee7c9714e280702080ea0c7fb2883dd50b74)
+- [外贸数据屡创新高，底层从业者很难分享收益](https://github.com/rileyfisherpixelgrp/ayruAv/commit/37b596f7ff06ec5e2f37278d6ea45e2165881929)
