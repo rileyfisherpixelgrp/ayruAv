@@ -154,3 +154,4 @@
 - [农村宴席记账登记系统，宾客随礼打印统计报表](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0ba23aed30b0e8ad24c292695971c639f2613929)
 - [算力网络全国一体化调度东数西算工程进入实质运营阶段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8b12ed5376fbe30f58ea76b3b95f9ea0f7ec6484)
 - [数字游民政策适配，跨城市社保医保打通](https://github.com/rileyfisherpixelgrp/ayruAv/commit/18404af97fec419349b7b195890acb79f81a51b8)
+- [GitHub仓库Release附件哈希校验完整性脚本](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a87d24e036d030f4e75e6e2e72e2091f28123f2f)
