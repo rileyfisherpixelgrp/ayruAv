@@ -172,3 +172,4 @@
 - [机构抱团推高股价，泡沫破裂散户承担全部损失](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c279d89d8f8e2d048fc168d0c4bd98a6e8372df4)
 - [通用表格问题解决方案仓库 完整源码附依赖版本兼容适配](https://github.com/rileyfisherpixelgrp/ayruAv/commit/987c579fd55a009fac3024b182bcd9a63ea0b0b7)
 - [开源技术笔记仓库合理拆分页面利于百度索引](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2958a09b195ef0249f7d8dd1421a0e788d913ae5)
+- [返还型保险值不值得买拆解真实收益与陷阱](https://github.com/rileyfisherpixelgrp/ayruAv/commit/acb68d075ba25cc02fd365d958d0f77a28ff4c42)
