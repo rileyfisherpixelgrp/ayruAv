@@ -20,3 +20,4 @@
 - [AI试点规模化阻碍，业务数据质量与组织阻力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/347c78bf14d187c848011047e122b599f3a181d2)
 - [家政保姆受伤，雇主是否需要承担赔偿责任](https://github.com/rileyfisherpixelgrp/ayruAv/commit/54327a1cc594ca22116b91edee837fe56bde2708)
 - [机密虚拟机CVM推理业务，加密计算性能损耗](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f4db41fa5dd0db44b2d97128a55241592f9fedbd)
+- [开发者实战开源方案合集 完整工程包含故障排查指南](https://github.com/rileyfisherpixelgrp/ayruAv/commit/12f1f61fe00878c84c0e97da145a1cc533488246)
