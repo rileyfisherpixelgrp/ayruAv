@@ -131,3 +131,4 @@
 - [mysql建表语句转markdown，建表sql直接生成表结构文档](https://github.com/rileyfisherpixelgrp/ayruAv/commit/01f865556e821bae57bd16bce7f1652edbc8a5a8)
 - [多模态PDF解析，扫描件表格图表抽取缺陷](https://github.com/rileyfisherpixelgrp/ayruAv/commit/646b35c0fb546cf3bfac4b6e734d83415a71b0ef)
 - [动力电池梯次利用，储能产业规模化发展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/88fe5bf6101d9b1bb88c296334f56d4af12705e1)
+- [内网文档权限共享平台，预览防复制禁止下载分级权限管控](https://github.com/rileyfisherpixelgrp/ayruAv/commit/abfc43c6e357a3d1035023392b5b08139c48ebd5)
