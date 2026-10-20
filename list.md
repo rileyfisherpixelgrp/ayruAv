@@ -196,3 +196,4 @@
 - [接口参数自动格式化开源仓库 完整源码统一规范化请求入参](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b8d6d39fb623fe824ddaf9ac5d27a35aada6c361)
 - [元宇宙相关应用落地，虚拟社交消费风险提示](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c3b450af638dd1ced5d86005a1a55ddcdf780712)
 - [长音频RAG降噪预处理，语音召回失真治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9197163c788ee56dc583f0f2ce5061868cf45c24)
+- [个人很难对抗宏观大周期，只能顺势做好自身规划](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e71c194f05b996deb18b02b1e3570b6d0eeaed71)
