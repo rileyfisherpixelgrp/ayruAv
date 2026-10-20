@@ -85,3 +85,4 @@
 - [生态保护和农户增收平衡路径](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e087a05994ed9975f274c3bcf46cfc1dbb0f4e40)
 - [气候韧性农业应对极端天气](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8084df67fcc7261bde2a61dd84d04f1a2a496053)
 - [Gitee 镜像部署静态博客百度收录踩坑汇总](https://github.com/rileyfisherpixelgrp/ayruAv/commit/35794e16936988b60d40e2fbd389858ffec114e6)
+- [农村移风易俗深化，红白事大操大办治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e7d053709207a4d998fde3c827e3215dd6574ee9)
