@@ -95,3 +95,4 @@
 - [新业态劳动者参保激励如何降低缴费压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8c419a3089d8cf3e6c134d8856ef8d15fd2b1da6)
 - [URL 链接有效性检测开源源码 完整源码批量检测链接存活](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4b34dd371724561393605f26d3b59beb7c46b340)
 - [二手市场异常火爆，既是机遇也是无奈妥协](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5cc777050cb7ccba48079daf20135ae56ddaea2d)
+- [混沌工程AI化，AI自动生成故障注入场景](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4802a56008d2bb3e284da5d38295e6f1d205c54c)
