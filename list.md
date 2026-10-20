@@ -47,3 +47,4 @@
 - [Rust+Wasm构建端侧AI，内存安全与性能取舍](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0031e4659860a908846a87a171f4841849527b53)
 - [医疗器械集采扩围，家用医疗设备降价趋势](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6c7882fe918e7ae525d017467d74e59733a6c2d5)
 - [中证A500指数基金密集发行宽基指数产品赛道迎来激烈竞争](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6ea2c87176f5b9ea14a9b567b2749ca3d4eb3212)
+- [基建类REITs持续上新盘活存量基建资产撬动新增投资](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2eb3eabc241f4c6508067d25c70dc29d0a779f50)
