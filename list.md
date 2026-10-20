@@ -53,3 +53,4 @@
 - [居民理财渠道收窄，低利率环境下家庭资产保值难题](https://github.com/rileyfisherpixelgrp/ayruAv/commit/cc572347ae078b4cd1aa75b6d91bf5b186aef28f)
 - [网络抖动检测工具，持续ping统计抖动丢包输出日志](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c142a5aaa06f1c60572d41a9aac0016b280efb68)
 - [大型PR拆分成小PR，大型改动拆分实践难点](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b22f292f06ea11369cc13aac023a17c16fd6f306)
+- [开源Agent项目，LLM输出注入导致执行高危命令](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b58584b4505f2bfe491979d2bad31b3aae218aa3)
