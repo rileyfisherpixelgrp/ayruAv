@@ -15,3 +15,4 @@
 - [气候适应型生活，普通人应对极端天气变化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0d03ba09fc9927e837cfeae2eb1bf053b8cd2ec9)
 - [多模态开源项目，音视频文件仓库存储压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/3cacdcf74d4ea69f3febe5c8abdc3887b56767d7)
 - [虚拟电厂炒得火热，实际落地难题难以解决](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f9c1ec84960cf0f3bd24608a8392b42e016f0500)
+- [AI题材炒得热火朝天，落地盈利企业少之又少](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d737adf96c1211a5ec9ea89750d8d35950d25d37)
