@@ -11,3 +11,4 @@
 - [AI业务故障定级，模型异常线上应急响应](https://github.com/rileyfisherpixelgrp/ayruAv/commit/ee3bcb315f289897c4dcc3ad0436330560ccfbc9)
 - [技术进步提高生产效率，同时带来结构性就业变化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5241b5b03c5853e9a97d4827433874b4cdf0e850)
 - [老旧小区改造落地居民能获得哪些实实在在的改善](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e6c39d5859509ec09e4dbd1de8d61879c332752f)
+- [二叉树遍历练习开源源码 完整源码实现多种二叉树遍历方式](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f879aaedd5898878ee03deac4d3088958ae0155f)
