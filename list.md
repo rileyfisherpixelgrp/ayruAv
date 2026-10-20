@@ -13,3 +13,4 @@
 - [老旧小区改造落地居民能获得哪些实实在在的改善](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e6c39d5859509ec09e4dbd1de8d61879c332752f)
 - [二叉树遍历练习开源源码 完整源码实现多种二叉树遍历方式](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f879aaedd5898878ee03deac4d3088958ae0155f)
 - [气候适应型生活，普通人应对极端天气变化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0d03ba09fc9927e837cfeae2eb1bf053b8cd2ec9)
+- [多模态开源项目，音视频文件仓库存储压力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/3cacdcf74d4ea69f3febe5c8abdc3887b56767d7)
