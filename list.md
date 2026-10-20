@@ -41,3 +41,4 @@
 - [县域产业同质化，容易陷入低水平重复建设](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1cffa307f69bcef9d89a89b63cbda4aff8474457)
 - [powershell配置文件管理工具，分段管理powershell配置](https://github.com/rileyfisherpixelgrp/ayruAv/commit/41083ea845b7b5b44a2a4ae68913d7bae80ea24d)
 - [粮价表面风平浪静，潜藏的连锁风险不可忽视](https://github.com/rileyfisherpixelgrp/ayruAv/commit/3b6b1da1f937789676b8a231651c8bf208f6150b)
+- [农业保险扩面提质，极端天气农户损失兜底](https://github.com/rileyfisherpixelgrp/ayruAv/commit/479777182ed4effbde0e42a776c6714f6dff7143)
