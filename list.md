@@ -50,3 +50,4 @@
 - [基建类REITs持续上新盘活存量基建资产撬动新增投资](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2eb3eabc241f4c6508067d25c70dc29d0a779f50)
 - [时序指标异常检测工具，服务器监控数据自动识别突增突降](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0c2b5a44f4bbdc92679889f18c8d8e37c7328bf8)
 - [软链接硬链接处理 Demo 完整源码程序创建读取软硬链接](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1f9771693a4d87cfb0f38e8886bd0cbeda82d453)
+- [居民理财渠道收窄，低利率环境下家庭资产保值难题](https://github.com/rileyfisherpixelgrp/ayruAv/commit/cc572347ae078b4cd1aa75b6d91bf5b186aef28f)
