@@ -145,3 +145,4 @@
 - [云成本优化FinOps，云上资源浪费治理手段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8a282ae946de74c6b53513ef7329444e5cbe1ec3)
 - [开源轻量工具项目分享 源码开放包含多场景适配示例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/91dc843ce1778f0f05181c35165c460eaf095d80)
 - [markdown图片路径批量替换，批量修改文档内图片引用路径](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2f857b86ab1025542edd39b98e955d0fd729e560)
+- [家用AI安防设备规范，家庭监控数据泄露风险](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e671ed8eeea7fe0a3c9d3f51cd88d0d17c3bd587)
