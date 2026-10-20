@@ -84,3 +84,4 @@
 - [家庭财产公证线上化，财富传承流程简化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2cd21f075d24c27350c90a6c0e1fc5805c02f6dc)
 - [生态保护和农户增收平衡路径](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e087a05994ed9975f274c3bcf46cfc1dbb0f4e40)
 - [气候韧性农业应对极端天气](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8084df67fcc7261bde2a61dd84d04f1a2a496053)
+- [Gitee 镜像部署静态博客百度收录踩坑汇总](https://github.com/rileyfisherpixelgrp/ayruAv/commit/35794e16936988b60d40e2fbd389858ffec114e6)
