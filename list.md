@@ -142,3 +142,4 @@
 - [明知依赖停止维护，项目依旧继续强依赖](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fadbbaa46bc42127cb0f6ea9d0a20c0551e9d47c)
 - [开源项目文档 title 标签设置百度搜索优化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/31a4a9c087bab26acfb3084f50b820793a7c4b32)
 - [GitHub仓库提交记录热力原始数据导出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8ad696308c01adee916c60499f661f03c8688005)
+- [云成本优化FinOps，云上资源浪费治理手段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8a282ae946de74c6b53513ef7329444e5cbe1ec3)
