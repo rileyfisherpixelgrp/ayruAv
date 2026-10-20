@@ -153,3 +153,4 @@
 - [财富管理行业转型券商银行转向综合资产服务](https://github.com/rileyfisherpixelgrp/ayruAv/commit/11a129e5cff88d084b42a41aa507b958ce6f7aca)
 - [农村宴席记账登记系统，宾客随礼打印统计报表](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0ba23aed30b0e8ad24c292695971c639f2613929)
 - [算力网络全国一体化调度东数西算工程进入实质运营阶段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8b12ed5376fbe30f58ea76b3b95f9ea0f7ec6484)
+- [数字游民政策适配，跨城市社保医保打通](https://github.com/rileyfisherpixelgrp/ayruAv/commit/18404af97fec419349b7b195890acb79f81a51b8)
