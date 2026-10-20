@@ -29,3 +29,4 @@
 - [消息队列自动化脚本开源仓库 源码开放支持自定义逻辑扩展](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6a5c78573a747d79a5023f622f0b61fd525bfac1)
 - [词元资源配额管控，多业务AI消费限流治理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/af1a94bbed829706718b1cb2a915119e8927db3c)
 - [家用AI安防设备规范，严防监控数据泄露](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1261117444b55560c3e9ce27ff473308972dc8a7)
+- [自动化工具实战源码集 完整实现代码与运行报错排查方案](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2d6ae9c38556d425fb5061e5e1e65ef310bb796d)
