@@ -102,3 +102,4 @@
 - [图书角管理系统，借阅归还逾期记录统计开源项目](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a0e6ad4ae87430cf57f7285ffa7d602219625e72)
 - [灵活就业工伤保障试点自由职业者也能参加工伤保险](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e38beccaa5c8620dd56f767c12a3963a11ed4548)
 - [网购收到假货，退一赔三适用条件如何主张赔偿](https://github.com/rileyfisherpixelgrp/ayruAv/commit/8c62add21be9f02827e5e38712d4439db5d67fee)
+- [CodeQL自定义规则编写，普通维护者上手难](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5e1f367cb1f78fb2b9b53da60b8b6fa3757e8625)
