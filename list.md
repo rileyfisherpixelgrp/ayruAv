@@ -54,3 +54,4 @@
 - [网络抖动检测工具，持续ping统计抖动丢包输出日志](https://github.com/rileyfisherpixelgrp/ayruAv/commit/c142a5aaa06f1c60572d41a9aac0016b280efb68)
 - [大型PR拆分成小PR，大型改动拆分实践难点](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b22f292f06ea11369cc13aac023a17c16fd6f306)
 - [开源Agent项目，LLM输出注入导致执行高危命令](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b58584b4505f2bfe491979d2bad31b3aae218aa3)
+- [居家安宁疗护推广，普通家庭临终照护现实](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7211d35d32eada9749cd5c3eb7fb164380dfe160)
