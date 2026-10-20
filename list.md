@@ -17,3 +17,4 @@
 - [虚拟电厂炒得火热，实际落地难题难以解决](https://github.com/rileyfisherpixelgrp/ayruAv/commit/f9c1ec84960cf0f3bd24608a8392b42e016f0500)
 - [AI题材炒得热火朝天，落地盈利企业少之又少](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d737adf96c1211a5ec9ea89750d8d35950d25d37)
 - [通用业务组件开源库 二次开发参考与多平台部署演示案例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7fedde1be1a4a84d88a848c5fb601b0e40292e36)
+- [AI试点规模化阻碍，业务数据质量与组织阻力](https://github.com/rileyfisherpixelgrp/ayruAv/commit/347c78bf14d187c848011047e122b599f3a181d2)
