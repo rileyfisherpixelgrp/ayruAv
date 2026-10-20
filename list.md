@@ -25,3 +25,4 @@
 - [进城务工人员社保转移异地打工社保衔接怎么办理](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d4264603f1f66a624b28e9bd7801e6eb2ab1926b)
 - [大力刺激居民消费，居民储蓄意愿反而走高](https://github.com/rileyfisherpixelgrp/ayruAv/commit/79ee833e56c4c1c3d8858f991a155f4b27566187)
 - [递归遍历多级目录源码 完整源码遍历深度嵌套文件夹](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4b302725f4271c7496e9dde8706ca1f05e5710ad)
+- [静态站点sitemap生成工具，扫描站点生成sitemap xml](https://github.com/rileyfisherpixelgrp/ayruAv/commit/48cc29f5113a83507aff25642c2b9832f6f73483)
