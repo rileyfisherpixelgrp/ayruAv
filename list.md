@@ -76,3 +76,4 @@
 - [人民币汇率来回波动，不必过度放大影响](https://github.com/rileyfisherpixelgrp/ayruAv/commit/42f010df9b241eabf65054549226e17855851da1)
 - [跨实例数据迁移脚本工程 完整源码完成库之间数据同步](https://github.com/rileyfisherpixelgrp/ayruAv/commit/1b1c400de28f3f2006078aad1b5758942ee6319c)
 - [美债消息反复刷屏，别被短期消息打乱节奏](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7a69fbe1492587bb3403d83ca7103e2a2f593444)
+- [模块化组件开源实战合集 全套源码附带异常排查实操](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a1b0cff3e72f88a376263e0157852bea83b02e12)
