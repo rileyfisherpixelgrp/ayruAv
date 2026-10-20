@@ -62,3 +62,4 @@
 - [线程安全集合开源源码 完整源码实现线程安全数据容器](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e31dc289fa1357752beba505eddd6a22911130a8)
 - [地方专项债使用效率，直接影响基建投资的实际效果](https://github.com/rileyfisherpixelgrp/ayruAv/commit/210d80e568ff7c9e753f6ab9020a818a75f34f40)
 - [正则替换回调函数开源仓库 完整源码动态回调正则替换](https://github.com/rileyfisherpixelgrp/ayruAv/commit/30cbd10e58a95fe1823788e7f450ee2e8fc1a29c)
+- [家庭健康管理普及，居家连续监测设备大众化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4b8102d469565c40c30d3b6e1ca848cf52867cec)
