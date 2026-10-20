@@ -121,3 +121,4 @@
 - [机构扎堆调研个股，不代表马上就要拉升](https://github.com/rileyfisherpixelgrp/ayruAv/commit/707ca27feb3ad3d68e9d495b5ff76b69f309e123)
 - [新时代文明实践站提质乡村精神文化供给](https://github.com/rileyfisherpixelgrp/ayruAv/commit/94e337e837fb8169ed2c4e7b1f2f57422b16f433)
 - [静态开源项目页面标题 meta 描述设置教程](https://github.com/rileyfisherpixelgrp/ayruAv/commit/bd8ab417c63970c5ba3fcfd3ef3f357aea664ba3)
+- [Dependabot更新锁文件，产生巨量无法合并冲突](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d24033d17ff5aa4bc9413b8f3644208202866dbc)
