@@ -91,3 +91,4 @@
 - [地方国有资本经营预算收入大增国企改革红利持续释放观察](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fa7361bd45cf545e325f2c48786a6f18c8f8a4ad)
 - [三十五岁职场危机如何化解](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0e89be1f52f46450c295a4811c248a81f4574f6b)
 - [sqlite数据库碎片整理脚本，批量执行vacuum优化库文件](https://github.com/rileyfisherpixelgrp/ayruAv/commit/5351454ed296725dbf037d58bece1980c140d0ca)
+- [文本句子重复度检测工具，检测文本内部重复句子片段](https://github.com/rileyfisherpixelgrp/ayruAv/commit/55281866450ac504bbe3c9422637d273470959b2)
