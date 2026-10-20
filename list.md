@@ -99,3 +99,4 @@
 - [外贸高增长，也伴随着国际贸易摩擦的增多](https://github.com/rileyfisherpixelgrp/ayruAv/commit/ab4814966311a9c02a666638adcf3c5d4b7d7dd0)
 - [理财追求安稳，为什么亏的全是保守派](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7c6034ee4c995623bbadab65c5e847efe7b95729)
 - [养老金融产品创新，稳健养老产品供给扩容](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e362c4cdd5cefbe6f939f8d262db46f56b1aad6e)
+- [图书角管理系统，借阅归还逾期记录统计开源项目](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a0e6ad4ae87430cf57f7285ffa7d602219625e72)
