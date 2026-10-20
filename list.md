@@ -78,3 +78,4 @@
 - [美债消息反复刷屏，别被短期消息打乱节奏](https://github.com/rileyfisherpixelgrp/ayruAv/commit/7a69fbe1492587bb3403d83ca7103e2a2f593444)
 - [模块化组件开源实战合集 全套源码附带异常排查实操](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a1b0cff3e72f88a376263e0157852bea83b02e12)
 - [文本敏感词批量替换工具，批量替换文本命中敏感词汇](https://github.com/rileyfisherpixelgrp/ayruAv/commit/22fe60362bc7c696e2a3fe87a632b5fdc1130548)
+- [绿色智算中心PUE优化，算力能耗平衡实践](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0764b8469839610d0c53e8c8edd81c229b226644)
