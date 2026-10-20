@@ -33,3 +33,4 @@
 - [粮价看似波澜不惊，背后暗藏连锁传导风险](https://github.com/rileyfisherpixelgrp/ayruAv/commit/33d3cb511b75a2d803680bc11bbe1ba49fee6eb6)
 - [redis key过期时间批量设置，批量给匹配key设置ttl过期时间](https://github.com/rileyfisherpixelgrp/ayruAv/commit/b3170829b61d0247c42afe1b5feef5d58ef1f7d2)
 - [高质量开源工程合集 落地部署流程与常见问题汇总](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0b372a607a9ba651d5345c16c35188de918c614a)
+- [图片隐写水印工具，文字图片信息隐藏嵌入提取本地实现](https://github.com/rileyfisherpixelgrp/ayruAv/commit/d9563b109d7b89b9b0c495405c884fef2b880dde)
