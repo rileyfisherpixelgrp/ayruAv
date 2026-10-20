@@ -45,3 +45,4 @@
 - [github组织内部仓库访问矩阵导出，用户-仓库权限完整矩阵输出](https://github.com/rileyfisherpixelgrp/ayruAv/commit/a4f75eb48e993d63b14ee87439f234d3e3334917)
 - [全栈组件实战开源源码库 可复用项目包含配置演示样例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/2857362d47b465eff3cc8af9059af4518e93e765)
 - [Rust+Wasm构建端侧AI，内存安全与性能取舍](https://github.com/rileyfisherpixelgrp/ayruAv/commit/0031e4659860a908846a87a171f4841849527b53)
+- [医疗器械集采扩围，家用医疗设备降价趋势](https://github.com/rileyfisherpixelgrp/ayruAv/commit/6c7882fe918e7ae525d017467d74e59733a6c2d5)
