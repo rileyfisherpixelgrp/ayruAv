@@ -199,3 +199,4 @@
 - [个人很难对抗宏观大周期，只能顺势做好自身规划](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e71c194f05b996deb18b02b1e3570b6d0eeaed71)
 - [智慧农业推广小农户数字化转型难点](https://github.com/rileyfisherpixelgrp/ayruAv/commit/33a4819b0e2758c571d1c7e2fc2f7bf2209a2cf4)
 - [Agent状态持久化，崩溃断点续执行实现](https://github.com/rileyfisherpixelgrp/ayruAv/commit/caa824cfcc07c7c41501cd44cf0c707521573e8b)
+- [地方产业引导基金运作政府资金如何赋能科创企业](https://github.com/rileyfisherpixelgrp/ayruAv/commit/923cf2dbeb4bbc3d5d572fb793cdd910fda7df4c)
