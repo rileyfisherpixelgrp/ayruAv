@@ -127,3 +127,4 @@
 - [面向百度搜索的 GitHub 开源文档排版规范](https://github.com/rileyfisherpixelgrp/ayruAv/commit/112793eea027fa276565501090b4ca9ba0918c78)
 - [鼓吹一人公司时代，普通人创业陷阱远大于机遇](https://github.com/rileyfisherpixelgrp/ayruAv/commit/4bd95c8488bdd095fc7e18f9ad60c1f98e662d40)
 - [农村自建房买卖限制城里人购买农房为什么不受保护](https://github.com/rileyfisherpixelgrp/ayruAv/commit/e262a7dbfb2405ecdf334fbc4244ad8aed9b50cf)
+- [多线程任务异常捕获开源仓库 完整源码处理线程异常崩溃](https://github.com/rileyfisherpixelgrp/ayruAv/commit/43f9137aa502b914073efbf148fa2ea2abc5d1bf)
