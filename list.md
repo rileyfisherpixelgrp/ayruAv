@@ -108,3 +108,4 @@
 - [存量房时代房产中介行业转型方向](https://github.com/rileyfisherpixelgrp/ayruAv/commit/fe49e625abbb0f278f62559d92f7e3fff1cc49d1)
 - [开发参考示范开源工程 源码资源包含多套业务模拟样例](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9ef6d70d1269807d5baacec2c7177b022ad01b23)
 - [城乡养老保险统筹跨制度转移接续简化](https://github.com/rileyfisherpixelgrp/ayruAv/commit/06c3d47adc11ca37707ac8e8d676e50a446f41c0)
+- [批量生成测试图片工具，自定义尺寸文字生成测试素材图片](https://github.com/rileyfisherpixelgrp/ayruAv/commit/9acc29a043dd1a9f15c9826524bc7e7909b45cd1)
